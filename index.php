@@ -18,6 +18,7 @@
 </head>
 
 <body>
+<div class="container">
     <div class="page-header">
         <h1>Automatically Print<small> All uploaded PDFs</small></h1>
     </div>
@@ -146,6 +147,7 @@
             <?php
             }
         ?>
+        </div>
         </div>
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
